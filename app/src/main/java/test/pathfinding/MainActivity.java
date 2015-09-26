@@ -87,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
                                 new Transit(3, 499, 499, 4, 0, 0),
                                 new Transit(1, 499, 499, 4, 0, 0)
                         }, 5);
-//                algorithm.init(matrix, 1, (float) (1 + Math.sqrt(2)));
                 long diff = System.nanoTime() - nano;
                 publishProgress(diff);
                 nano = System.nanoTime();
