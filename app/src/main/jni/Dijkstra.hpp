@@ -1,7 +1,3 @@
-//
-// Created by Alexander Vlasov on 21.09.2015.
-//
-
 #ifndef PATHFINDING_DIJKSTRA_H
 #define PATHFINDING_DIJKSTRA_H
 
